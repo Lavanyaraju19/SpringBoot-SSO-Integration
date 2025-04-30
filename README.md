@@ -62,3 +62,13 @@ Docker Compose will automatically start up when the app is started, but it will 
 ```
 pkill -TERM java
 docker compose down
+
+Additional Configuration
+Custom Login Page: You can customize the login page and the post-login redirect URL.
+
+Error Handling: Handle authentication errors and token expiration scenarios.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Lavanya J
